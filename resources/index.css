@@ -1,9 +1,12 @@
-#Mark {
-    font-size: 300px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+h1 {
+  text-align: center;  
+  font-family: chalkduster, fantasy;
 }
-
-.marky {
-    width: 300px;
-    height: 200px;
+h5{
+    text-align: center;
+    font-family: chalkduster, fantasy;
+}
+.message {
+    text-align: center;
+    font-family: chalkduster, fantasy;
 }
